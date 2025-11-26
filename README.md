@@ -54,8 +54,7 @@ I am now transitioning into:
   - local AI models and security scripts.
 
 My personal portfolio:  
-👉 https://github.com/collectiv-ai/about-founder  
-
+👉 https://github.com/collectiv-ai/collectiv-ai-about-founder
 ---
 
 ## 🚀 Vision & Direction
@@ -128,9 +127,6 @@ Support (sponsorship, grants, investment) would be used in a very **concrete and
 ---
 
 ## 🛠 Current Public Repositories
-
-- **Founder portfolio (EN/DE):**  
-  https://github.com/collectiv-ai/about-founder  
 
 - **Security & system scripts (lab use):** *(planned / in progress)*  
   `security-scripts` – macOS & Linux system/security checks, network quickchecks  
