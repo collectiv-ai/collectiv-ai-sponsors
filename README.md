@@ -9,9 +9,11 @@
 
 ---
 
-> 🇬🇧 EN: This page is for **sponsors, supporters and potential investors**  
+> 🇬🇧 EN: This repository is for **sponsors, supporters and potential investors**  
 > who want to help build a **European, human-centered AI infrastructure** with CollectivAI.  
 >
+> 🇩🇪 DE: Dieses Repository richtet sich an **Sponsor:innen, Unterstützer:innen und potenzielle Investor:innen**,  
+> die beim Aufbau einer **europäischen, menschenzentrierten AI-Infrastruktur** mitwirken möchten.
 
 ---
 
@@ -28,16 +30,20 @@ The core idea:
 
 Instead of yet another „AI hype“ product, CollectivAI focuses on:
 
-- **Infrastructure & routing** (e.g. CollectivAI Router: Gemini / GPT / Ollama / Custom)  
-- **Local & privacy-friendly AI** (on macOS M2 Max + Linux lab)  
-- **Security & reliability** (inspired by semiconductor & production environments)  
-- **European, democratic mindset** instead of pure data extraction
+- **Infrastructure & routing**  
+  e.g. the idea of a *CollectivAI Router* that can route prompts through Gemini, GPT, local Ollama models or custom backends  
+- **Local & privacy-friendly AI**  
+  running on macOS M2 Max and Linux systems wherever possible  
+- **Security & reliability**  
+  inspired by semiconductor / production environments where uptime matters  
+- **European, democratic mindset**  
+  rather than pure data extraction and black-box algorithms
 
 ---
 
 ## 🧩 Who is behind CollectivAI?
 
-I’m **David Miecznikowski**, 41, with **20+ years of industrial experience**:
+I’m **David Miecznikowski**, 41 years old, with **20+ years of industrial experience**:
 
 - mechanical engineering & special-purpose machinery  
 - maintenance & field service in semiconductor fabs  
@@ -50,88 +56,107 @@ I am now transitioning into:
 - running a self-built lab with  
   - macOS M2 Max as central workstation  
   - multiple Linux VMs (Kali, Parrot, Ubuntu via UTM)  
-  - WiFi & network lab (WiFi Pineapple, adapters, 4G/5G dongles)  
+  - WiFi & network lab (WiFi Pineapple Tactical, adapters, 4G/5G dongles)  
   - local AI models and security scripts.
 
-My personal portfolio:  
-👉 https://github.com/collectiv-ai/collectiv-ai-about-founder
+My personal portfolio (EN/DE):  
+👉 https://github.com/collectiv-ai/about-founder  
+
 ---
 
 ## 🚀 Vision & Direction
 
-CollectivAI is not meant to be „just my hobby project“.  
-The long-term direction:
+CollectivAI is not meant to be “just a hobby project”.  
+The long-term direction includes:
 
-1. **CollectivAI Router**  
-   - Route prompts through the *best* backend (Gemini, GPT, local Ollama, custom models)  
-   - Apply **ethical & privacy filters** before sending anything out  
-   - Provide **transparent routing logic** (no black box)
+### 1. CollectivAI Router
 
-2. **Local / Hybrid AI Infrastructure**  
-   - Strong focus on **on-device** or **self-hosted** AI where possible  
-   - Encryption, privacy and **user control over data**  
-   - Integration with real-world systems (macOS, Linux, nodes, security tools)
+- A routing layer that decides which backend is best for a given task:  
+  Gemini, GPT, local Ollama models or specialised tools  
+- An **ethics & privacy layer** in front of external APIs  
+- Transparent routing logic so users understand what happens with their data
 
-3. **European / Democratic AI Perspective**  
-   - Explore models for **democratic participation**,  
-   - civic tools, transparent governance,  
-   - and alignment with EU values (privacy, dignity, rights).
+### 2. Local / Hybrid AI Infrastructure
+
+- Strong focus on **on-device** or **self-hosted** AI where possible  
+- Encryption, privacy and **user control over data**  
+- Integration with real-world systems (macOS, Linux, nodes, security tools)
+
+### 3. European / Democratic AI Perspective
+
+- Explore models for **democratic participation and civic AI**  
+- tools for citizens, communities and institutions  
+- alignment with **EU values** (privacy, dignity, rights, transparency)
 
 ---
 
 ## 📌 What support is used for?
 
-Support (sponsorship, grants, investment) would be used in a very **concrete and transparent** way, such as:
+Support (sponsorship, grants, investment) would be used in a **concrete and transparent** way:
 
-- 🖥 **Hardware & infrastructure**
-  - additional compute for local AI (e.g. GPU nodes, embedded devices)
-  - storage & backup for models, logs and documentation
-  - dedicated lab hardware for security/network simulations
+### 🖥 Hardware & Infrastructure
 
-- 🧪 **Development time**
-  - working on the **CollectivAI Router** (routing logic, ethics layer, UI)
-  - building **open scripts & tools** for security, monitoring and AI operations
-  - documentation (English/German) so others can use and audit the work
+- additional compute for local AI (GPU nodes, ARM boards, embedded devices)  
+- storage & backup for models, logs and documentation  
+- dedicated lab hardware for security/network simulations
 
-- 🛡 **Security, ethics, compliance**
-  - time & resources to implement **privacy-by-design** patterns  
-  - independent reviews, tests and open discussions around risks and governance
+### 🧪 Development Time
 
-- 📖 **Open documentation & education**
-  - guides on how to build **privacy-friendly AI labs** at home or in institutions  
-  - examples for schools, civic organisations, small companies
+- work on the **CollectivAI Router** (routing logic, ethics layer, UI)  
+- development of **open scripts & tools** for security, monitoring and AI operations  
+- documentation (English/German) so others can use and audit the work
+
+### 🛡 Security, Ethics, Compliance
+
+- implementing **privacy-by-design** patterns  
+- time for testing, threat modelling, and independent reviews  
+- open discussions around risks, governance and democratic control
+
+### 📖 Open Documentation & Education
+
+- guides on how to build **privacy-friendly AI labs** at home or in institutions  
+- example setups for schools, civic organisations and small companies  
+- templates for ethical AI use in real infrastructure
 
 ---
 
 ## 🎯 Why support CollectivAI?
 
-- **Real-world background**  
-  I come from **semiconductor & production**, not just from theory.  
-  I’ve worked in environments where **downtime costs real money** and  
-  reliability matters more than hype.
+### Real-World Background
 
-- **Lab-first mentality**  
-  Everything starts in a **real lab**, with actual scripts, configs and hardware.  
-  You can see the progress in the repositories – not only in slides.
+I come from **semiconductor and production**, not just from theory.  
+I’ve worked in environments where **downtime has a real cost** and reliability matters more than hype.
 
-- **European perspective**  
-  The project is built with a strong focus on:
-  - European values  
-  - privacy & dignity  
-  - democratic access to AI tools
+### Lab-First Mentality
 
-- **Open, transparent and human**  
-  The goal is to publish as much as possible as **open source** and  
-  to document decisions in a way that people can understand and question.
+Everything starts in a **real lab**, with actual scripts, configs and hardware.  
+Progress can be seen in repositories – not only in slide decks.
+
+### European Perspective
+
+The project is built with a strong focus on:
+
+- European values  
+- privacy & dignity  
+- democratic access to AI tools
+
+### Open, Transparent and Human
+
+The goal is to publish as much as possible as **open source** and  
+to document decisions in a way that people can understand, audit and question.
 
 ---
 
 ## 🛠 Current Public Repositories
 
-- **Security & system scripts (lab use):** *(planned / in progress)*  
+- **Founder portfolio (EN/DE)**  
+  Personal background, lab description, scripts overview:  
+  👉 https://github.com/collectiv-ai/about-founder  
+
+- **Security & system scripts (lab use)** *(planned / in progress)*  
   `security-scripts` – macOS & Linux system/security checks, network quickchecks  
 
-- **CollectivAI Router / App:** *(prototyping phase)*  
+- **CollectivAI Router / App** *(prototyping phase)*  
   concept for a macOS-style interface that routes AI requests through  
   the best backend with an ethics & privacy layer.
 
@@ -143,7 +168,7 @@ More repositories will be added gradually as the project evolves.
 
 There are several ways to support CollectivAI:
 
-- ⭐ **Star & share** the repositories  
+- ⭐ **Star & share** the repositories to help visibility  
 - 🐙 **Contribute** (code, documentation, issues, ideas)  
 - 💶 **Sponsor** recurring work (GitHub Sponsors / direct support)  
 - 🧩 **Partner** for pilot projects (education, civic tech, infrastructure, security labs)
@@ -152,7 +177,7 @@ If you are an **institution, foundation, public body or investor** and see
 potential in this direction, I am open to:
 
 - small grants to stabilise the lab & development time  
-- pilot projects around **democratic AI / civic AI**  
+- pilot projects around **democratic / civic AI**  
 - collaboration on **European AI infrastructure** concepts.
 
 ---
@@ -165,3 +190,24 @@ potential in this direction, I am open to:
 - 🌐 Website: https://collectivai.org  
 
 ---
+
+## 🇩🇪 Kurzfassung auf Deutsch
+
+**CollectivAI** ist mein persönliches, aber ambitioniertes Projekt,  
+eine **menschenzentrierte, europäische AI-Infrastruktur** aufzubauen – mit Fokus auf:
+
+- reale Infrastruktur (Routing, Security, lokale AI-Modelle)  
+- Datenschutz & Privatsphäre  
+- europäische Werte und demokratische Teilhabe  
+
+Ich bringe über 20 Jahre Erfahrung aus **Industrie & Halbleiterfertigung** mit  
+und baue auf einem eigenen **macOS- & Linux-Lab** mit Security- und AI-Fokus auf.
+
+Unterstützung (Sponsoring, Förderung, Kooperation) wird genutzt für:
+
+- Lab-Hardware, Knoten & lokale AI-Infrastruktur  
+- Entwicklung von Open-Source-Tools (Router, Security-Skripte, Monitoring)  
+- Dokumentation, Ethik- und Sicherheitskonzepte rund um „Human-Centered AI“.
+
+Bei Interesse an einer Zusammenarbeit als **Sponsor, Förderer oder Partner**  
+freue ich mich über eine Nachricht an **info@collectivai.org**.
