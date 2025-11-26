@@ -12,8 +12,6 @@
 > 🇬🇧 EN: This page is for **sponsors, supporters and potential investors**  
 > who want to help build a **European, human-centered AI infrastructure** with CollectivAI.  
 >
-> 🇩🇪 DE: Diese Seite richtet sich an **Sponsor:innen, Unterstützer:innen und potenzielle Investor:innen**,  
-> die beim Aufbau einer **europäischen, menschenzentrierten AI-Infrastruktur** mithelfen möchten.
 
 ---
 
@@ -171,24 +169,3 @@ potential in this direction, I am open to:
 - 🌐 Website: https://collectivai.org  
 
 ---
-
-## 🇩🇪 Kurzfassung auf Deutsch
-
-**CollectivAI** ist mein persönliches, aber ambitioniertes Projekt,  
-um eine **menschenzentrierte, europäische AI-Infrastruktur** aufzubauen – mit Fokus auf:
-
-- reale Infrastruktur (Routing, Security, lokale AI),  
-- Datenschutz & Privatsphäre,  
-- europäische Werte und demokratische Teilhabe.
-
-Ich bringe über 20 Jahre Erfahrung aus **Industrie & Halbleiterfertigung** mit  
-und baue auf einem eigenen **macOS- & Linux-Lab** mit Security- und AI-Fokus auf.
-
-Unterstützung (Sponsoring, Förderung, Kooperation) wird genutzt für:
-
-- Lab-Hardware, Knoten & lokale AI-Infrastruktur  
-- Entwicklung von Open-Source-Tools (Router, Security-Skripte, Monitoring)  
-- Dokumentation, Ethik- und Sicherheitskonzepte rund um „Human-Centered AI“
-
-Wenn Sie Interesse haben, CollectivAI als **Sponsor, Förderer oder Partner** zu unterstützen,  
-freue ich mich über eine Nachricht: **info@collectivai.org**
