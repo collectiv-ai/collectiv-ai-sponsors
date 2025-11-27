@@ -1,15 +1,15 @@
-# CollectivAI – Förder- & Partnerschaftsübersicht
+# CollectiVAI – Förder- & Partnerschaftsübersicht
 
 > Öffentliche, nicht-vertrauliche Zusammenfassung für Förderer, Partner und Sponsoren.
 
 ## 1. Projektüberblick
 
-**Projekt:** CollectivAI – Democratic AI for Europe  
+**Projekt:** CollectiVAI – Democratic AI for Europe  
 **Art:** Gemeinwohlorientierte KI-Infrastruktur, Civic-Tech, digitale Innovation  
 **Web:** https://collectivai.org  
 **GitHub:** https://github.com/collectiv-ai  
 
-CollectivAI ist eine menschenzentrierte KI-Infrastruktur, deren Ziel ein  
+CollectiVAI ist eine menschenzentrierte KI-Infrastruktur, deren Ziel ein  
 *„Sovereign Public AI Network for Europe“* ist – eine demokratische,  
 transparente und datenschutzfreundliche KI-Ebene, die Bürger:innen,  
 Institutionen und Forschung unterstützt.
@@ -24,7 +24,7 @@ die sich an demokratischen Werten und Menschenrechten orientiert.
 
 ## 2. Gesellschaftliche Relevanz & Wirkung
 
-CollectivAI adressiert Bereiche mit hohem gesellschaftlichem Nutzen:
+CollectiVAI adressiert Bereiche mit hohem gesellschaftlichem Nutzen:
 
 - **Demokratie & Teilhabe**  
   Entscheidungsunterstützung, Policy-Analyse, zugängliche Informationen  
