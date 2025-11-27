@@ -2,7 +2,7 @@
   <img src="logo.png" alt="CollectivAI Logo" width="400">
 </p>
 
-<h1 align="center">CollectivAI – Human-Centered AI Infrastructure for Europe</h1>
+<h1 align="center">CollectiVAI – Human-Centered AI Infrastructure for Europe</h1>
 <p align="center">
   From industrial field service to ethical AI infrastructure – built in a real lab, not on slides.
 </p>
@@ -17,9 +17,9 @@
 
 ---
 
-## 🌍 What is CollectivAI?
+## 🌍 What is CollectiVAI?
 
-**CollectivAI** is a personal, but highly ambitious project led by  
+**CollectiVAI** is a personal, but highly ambitious project led by  
 **David Miecznikowski** (Field Service Engineer → IT, Cybersecurity & AI Infrastructure).
 
 The core idea:
@@ -41,7 +41,7 @@ Instead of yet another „AI hype“ product, CollectivAI focuses on:
 
 ---
 
-## 🧩 Who is behind CollectivAI?
+## 🧩 Who is behind CollectiVAI?
 
 I’m **David Miecznikowski**, 41 years old, with **20+ years of industrial experience**:
 
@@ -69,7 +69,7 @@ My personal portfolio (EN/DE):
 CollectivAI is not meant to be “just a hobby project”.  
 The long-term direction includes:
 
-### 1. CollectivAI Router
+### 1. CollectiVAI Router
 
 - A routing layer that decides which backend is best for a given task:  
   Gemini, GPT, local Ollama models or specialised tools  
@@ -120,7 +120,7 @@ Support (sponsorship, grants, investment) would be used in a **concrete and tran
 
 ---
 
-## 🎯 Why support CollectivAI?
+## 🎯 Why support CollectiVAI?
 
 ### Real-World Background
 
