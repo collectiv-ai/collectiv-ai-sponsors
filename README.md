@@ -187,8 +187,16 @@ potential in this direction, I am open to:
 - 👤 Founder: **David Miecznikowski**  
 - 📧 E-mail: **info@collectivai.org**  
 - 🐙 GitHub: https://github.com/collectiv-ai  
-- 🌐 Website: https://collectivai.org  
+- 🌐 Website: https://collectivai.org
 
+- ---
+
+### 🔗 Related Repositories
+
+- 🌐 Main website & public docs: [collectiv-ai.github.io](https://github.com/collectiv-ai/collectiv-ai.github.io)
+- 👤 Founder profile & lab: [collectiv-ai-about-founder](https://github.com/collectiv-ai/collectiv-ai-about-founder)
+- 🤝 Sponsors & partners: [collectiv-ai-sponsors](https://github.com/collectiv-ai/collectiv-ai-sponsors)
+  
 ---
 
 ## 🇩🇪 Kurzfassung auf Deutsch
