@@ -189,13 +189,20 @@ potential in this direction, I am open to:
 - 🐙 GitHub: https://github.com/collectiv-ai  
 - 🌐 Website: https://collectivai.org
 
-- ---
+---
 
 ### 🔗 Related Repositories
 
 - 🌐 Main website & public docs: [collectiv-ai.github.io](https://github.com/collectiv-ai/collectiv-ai.github.io)
 - 👤 Founder profile & lab: [collectiv-ai-about-founder](https://github.com/collectiv-ai/collectiv-ai-about-founder)
 - 🤝 Sponsors & partners: [collectiv-ai-sponsors](https://github.com/collectiv-ai/collectiv-ai-sponsors)
+
+---
+
+## 📄 Funding & Partnerships
+
+- English overview: [FUNDING_OVERVIEW_EN.md](./FUNDING_OVERVIEW_EN.md)  
+- Deutsche Übersicht: [FUNDING_OVERVIEW_DE.md](./FUNDING_OVERVIEW_DE.md)
   
 ---
 
