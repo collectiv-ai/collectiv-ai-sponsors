@@ -136,6 +136,6 @@ Interessierte Förderer, Partner und Sponsoren sind eingeladen:
   - GitHub-Issues im passenden Repository  
   - die auf der Website angegebenen Kontaktmöglichkeiten
 
-CollectivAI ist offen für unverbindliche Vorgespräche, Pilotideen und  
+CollectiVAI ist offen für unverbindliche Vorgespräche, Pilotideen und  
 strukturierte Förderanträge gemeinsam mit Institutionen, Stiftungen  
 und öffentlichen oder zivilgesellschaftlichen Akteuren.
