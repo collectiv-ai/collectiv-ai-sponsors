@@ -1,15 +1,15 @@
-# CollectivAI – Funding & Partnerships Overview
+# CollectiVAI – Funding & Partnerships Overview
 
 > Public, non-confidential summary for potential funders, partners and sponsors.
 
 ## 1. Project Summary
 
-**Project:** CollectivAI – Democratic AI for Europe  
+**Project:** CollectiVAI – Democratic AI for Europe  
 **Type:** Public-interest AI infrastructure, civic-tech, digital innovation  
 **Web:** https://collectivai.org  
 **GitHub:** https://github.com/collectiv-ai  
 
-CollectivAI is a human-centred AI infrastructure project that aims to build a  
+CollectiVAI is a human-centred AI infrastructure project that aims to build a  
 *“Sovereign Public AI Network for Europe”* – a democratic, transparent and  
 privacy-respecting AI layer that supports citizens, institutions and researchers.
 
@@ -22,7 +22,7 @@ ethics & privacy layer. The long-term goal is to provide a trustworthy AI
 
 ## 2. Societal Relevance & Impact
 
-CollectivAI focuses on areas with high public value:
+CollectiVAI focuses on areas with high public value:
 
 - **Democracy & civic participation**  
   Decision support, policy analysis, accessible information and tools  
@@ -133,5 +133,5 @@ Potential funders, partners and sponsors are invited to:
   - GitHub issues in the relevant repository  
   - The contact options listed on the website
 
-CollectivAI is open to exploratory conversations, pilot ideas and structured  
+CollectiVAI is open to exploratory conversations, pilot ideas and structured  
 funding proposals with institutions, foundations and public or civic actors.
