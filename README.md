@@ -1,8 +1,23 @@
 <p align="center">
-  <img src="logo.png" alt="CollectivAI Logo" width="400">
+  <img src="logo.png" alt="CollectiVAI Logo" width="400" />
 </p>
 
-<h1 align="center">CollectiVAI – Human-Centered AI Infrastructure for Europe</h1>
+<h1 align="center">CollectiVAI Sponsors & Partners</h1>
+<h3 align="center">Human-Centered AI Infrastructure for Europe</h3>
+
+<p align="center">
+  <a href="https://collectivai.org">
+    <img src="https://img.shields.io/badge/Website-collectivai.org-003399?style=flat" alt="Website" />
+  </a>
+  <a href="https://github.com/collectiv-ai/collectiv-ai-app">
+    <img src="https://img.shields.io/badge/App-Alpha-ffcc00?style=flat" alt="App Alpha" />
+  </a>
+  <a href="https://github.com/collectiv-ai/collectiv-ai-app-chain">
+    <img src="https://img.shields.io/badge/Chain-Pre--Alpha-999999?style=flat" alt="Chain Pre-Alpha" />
+  </a>
+  <img src="https://img.shields.io/badge/Made%20in-Europe-003399?style=flat" alt="Made in Europe" />
+</p>
+
 <p align="center">
   From industrial field service to ethical AI infrastructure – built in a real lab, not on slides.
 </p>
@@ -10,7 +25,7 @@
 ---
 
 > 🇬🇧 EN: This repository is for **sponsors, supporters and potential investors**  
-> who want to help build a **European, human-centered AI infrastructure** with CollectivAI.  
+> who want to help build a **European, human-centered AI infrastructure** with CollectiVAI.  
 >
 > 🇩🇪 DE: Dieses Repository richtet sich an **Sponsor:innen, Unterstützer:innen und potenzielle Investor:innen**,  
 > die beim Aufbau einer **europäischen, menschenzentrierten AI-Infrastruktur** mitwirken möchten.
@@ -28,10 +43,10 @@ The core idea:
 > **privacy, reliability and human control** – starting from a concrete lab setup,  
 > not from a PowerPoint deck.
 
-Instead of yet another „AI hype“ product, CollectivAI focuses on:
+Instead of yet another “AI hype” product, CollectiVAI focuses on:
 
 - **Infrastructure & routing**  
-  e.g. the idea of a *CollectivAI Router* that can route prompts through Gemini, GPT, local Ollama models or custom backends  
+  e.g. the idea of a *CollectiVAI Router* that can route prompts through Gemini, GPT, local Ollama models or custom backends  
 - **Local & privacy-friendly AI**  
   running on macOS M2 Max and Linux systems wherever possible  
 - **Security & reliability**  
@@ -60,13 +75,13 @@ I am now transitioning into:
   - local AI models and security scripts.
 
 My personal portfolio (EN/DE):  
-👉 https://github.com/collectiv-ai/about-founder  
+👉 https://github.com/collectiv-ai/collectiv-ai-about-founder  
 
 ---
 
 ## 🚀 Vision & Direction
 
-CollectivAI is not meant to be “just a hobby project”.  
+CollectiVAI is not meant to be “just a hobby project”.  
 The long-term direction includes:
 
 ### 1. CollectiVAI Router
@@ -102,7 +117,7 @@ Support (sponsorship, grants, investment) would be used in a **concrete and tran
 
 ### 🧪 Development Time
 
-- work on the **CollectivAI Router** (routing logic, ethics layer, UI)  
+- work on the **CollectiVAI Router** (routing logic, ethics layer, UI)  
 - development of **open scripts & tools** for security, monitoring and AI operations  
 - documentation (English/German) so others can use and audit the work
 
@@ -151,12 +166,12 @@ to document decisions in a way that people can understand, audit and question.
 
 - **Founder portfolio (EN/DE)**  
   Personal background, lab description, scripts overview:  
-  👉 https://github.com/collectiv-ai/about-founder  
+  👉 https://github.com/collectiv-ai/collectiv-ai-about-founder  
 
 - **Security & system scripts (lab use)** *(planned / in progress)*  
   `security-scripts` – macOS & Linux system/security checks, network quickchecks  
 
-- **CollectivAI Router / App** *(prototyping phase)*  
+- **CollectiVAI Router / App** *(prototyping phase)*  
   concept for a macOS-style interface that routes AI requests through  
   the best backend with an ethics & privacy layer.
 
@@ -166,7 +181,7 @@ More repositories will be added gradually as the project evolves.
 
 ## 🤝 How you can support
 
-There are several ways to support CollectivAI:
+There are several ways to support CollectiVAI:
 
 - ⭐ **Star & share** the repositories to help visibility  
 - 🐙 **Contribute** (code, documentation, issues, ideas)  
@@ -193,9 +208,9 @@ potential in this direction, I am open to:
 
 ### 🔗 Related Repositories
 
-- 🌐 Main website & public docs: [collectiv-ai.github.io](https://github.com/collectiv-ai/collectiv-ai.github.io)
-- 👤 Founder profile & lab: [collectiv-ai-about-founder](https://github.com/collectiv-ai/collectiv-ai-about-founder)
-- 🤝 Sponsors & partners: [collectiv-ai-sponsors](https://github.com/collectiv-ai/collectiv-ai-sponsors)
+- 🌐 Main website & public docs: [collectiv-ai.github.io](https://github.com/collectiv-ai/collectiv-ai.github.io)  
+- 👤 Founder profile & lab: [collectiv-ai-about-founder](https://github.com/collectiv-ai/collectiv-ai-about-founder)  
+- 🤝 Sponsors & partners: [collectiv-ai-sponsors](https://github.com/collectiv-ai/collectiv-ai-sponsors)  
 
 ---
 
@@ -208,7 +223,7 @@ potential in this direction, I am open to:
 
 ## 🇩🇪 Kurzfassung auf Deutsch
 
-**CollectivAI** ist mein persönliches, aber ambitioniertes Projekt,  
+**CollectiVAI** ist mein persönliches, aber ambitioniertes Projekt,  
 eine **menschenzentrierte, europäische AI-Infrastruktur** aufzubauen – mit Fokus auf:
 
 - reale Infrastruktur (Routing, Security, lokale AI-Modelle)  
