@@ -35,7 +35,7 @@
 ## 🌍 What is CollectiVAI?
 
 **CollectiVAI** is a personal, but highly ambitious project led by  
-**David Miecznikowski** (Field Service Engineer → IT, Cybersecurity & AI Infrastructure).
+**David Compasso** (Field Service Engineer → IT, Cybersecurity & AI Infrastructure).
 
 The core idea:
 
@@ -58,7 +58,7 @@ Instead of yet another “AI hype” product, CollectiVAI focuses on:
 
 ## 🧩 Who is behind CollectiVAI?
 
-I’m **David Miecznikowski**, 41 years old, with **20+ years of industrial experience**:
+I’m **David Compasso**, with **20+ years of industrial experience**:
 
 - mechanical engineering & special-purpose machinery  
 - maintenance & field service in semiconductor fabs  
@@ -75,7 +75,7 @@ I am now transitioning into:
   - local AI models and security scripts.
 
 My personal portfolio (EN/DE):  
-👉 https://github.com/collectiv-ai/collectiv-ai-about-founder  
+👉 [`collectiv-ai-about-founder`](https://github.com/collectiv-ai/collectiv-ai-about-founder)
 
 ---
 
@@ -166,7 +166,7 @@ to document decisions in a way that people can understand, audit and question.
 
 - **Founder portfolio (EN/DE)**  
   Personal background, lab description, scripts overview:  
-  👉 https://github.com/collectiv-ai/collectiv-ai-about-founder  
+  👉 [`collectiv-ai-about-founder`](https://github.com/collectiv-ai/collectiv-ai-about-founder)
 
 - **Security & system scripts (lab use)** *(planned / in progress)*  
   `security-scripts` – macOS & Linux system/security checks, network quickchecks  
@@ -199,7 +199,7 @@ potential in this direction, I am open to:
 
 ## 📫 Contact
 
-- 👤 Founder: **David Miecznikowski**  
+- 👤 Founder: **David Compasso**  
 - 📧 E-mail: **info@collectivai.org**  
 - 🐙 GitHub: https://github.com/collectiv-ai  
 - 🌐 Website: https://collectivai.org
@@ -208,9 +208,9 @@ potential in this direction, I am open to:
 
 ### 🔗 Related Repositories
 
-- 🌐 Main website & public docs: [collectiv-ai.github.io](https://github.com/collectiv-ai/collectiv-ai.github.io)  
-- 👤 Founder profile & lab: [collectiv-ai-about-founder](https://github.com/collectiv-ai/collectiv-ai-about-founder)  
-- 🤝 Sponsors & partners: [collectiv-ai-sponsors](https://github.com/collectiv-ai/collectiv-ai-sponsors)  
+- 🌐 Main website & public docs: [`collectiv-ai.github.io`](https://github.com/collectiv-ai/collectiv-ai.github.io)  
+- 👤 Founder profile & lab: [`collectiv-ai-about-founder`](https://github.com/collectiv-ai/collectiv-ai-about-founder)  
+- 🧭 Business plan & strategy: [`collectiv-ai-business`](https://github.com/collectiv-ai/collectiv-ai-business)  
 
 ---
 
